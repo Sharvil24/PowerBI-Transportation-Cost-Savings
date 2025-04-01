@@ -16,7 +16,7 @@
   <!-- Dashboard 1 -->
   <h2>📊 Dashboard 1: Freight Cost & Shipment Performance</h2>
   <img src="images/dashboard1.png" alt="Dashboard 1" width="800">
-  <p><a href="[https://your-dashboard-link-1.com](https://northeastern-my.sharepoint.com/:u:/r/personal/wadekar_sh_northeastern_edu/Documents/Attachments/Alpha%20Huskies%201.pbix?csf=1&web=1&e=24WoqR)" target="_blank">🔗 View Dashboard 1</a></p>
+  <p><a href="https://northeastern-my.sharepoint.com/my?id=%2Fpersonal%2Fwadekar%5Fsh%5Fnortheastern%5Fedu%2FDocuments%2FAttachments%2FAlpha%20Huskies%201%2Epbix&parent=%2Fpersonal%2Fwadekar%5Fsh%5Fnortheastern%5Fedu%2FDocuments%2FAttachments&ct=1743532548700&or=OWA%2DNT%2DMail&cid=92d3f8f2%2Dc3d3%2Dae5a%2D14ac%2Db9db6d09c809&ga=1&ls=true" target="_blank">🔗 View Dashboard 1</a></p>
 
   <h3>Analysis:</h3>
   <ul>
