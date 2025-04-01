@@ -15,6 +15,7 @@
 
   <!-- Dashboard 1 -->
   <h2>📊 Dashboard 1: Freight Cost & Shipment Performance</h2>
+  <img width="1404" alt="Freight Cost   Shipment Performance" src="https://github.com/user-attachments/assets/d4774cad-edac-4cc0-93d0-6f6239129cb7" />
   <img src="'/Users/sharvilwadekar/Desktop/Freight Cost & Shipment Performance.png'" alt="Dashboard 1" width="800">
   <p><a href="https://northeastern-my.sharepoint.com/my?id=%2Fpersonal%2Fwadekar%5Fsh%5Fnortheastern%5Fedu%2FDocuments%2FAttachments%2FAlpha%20Huskies%201%2Epbix&parent=%2Fpersonal%2Fwadekar%5Fsh%5Fnortheastern%5Fedu%2FDocuments%2FAttachments&ct=1743532548700&or=OWA%2DNT%2DMail&cid=92d3f8f2%2Dc3d3%2Dae5a%2D14ac%2Db9db6d09c809&ga=1&ls=true" target="_blank">🔗 View Dashboard 1</a></p>
 
