@@ -97,7 +97,6 @@
 
   <hr>
 
-  <p><strong>Note:</strong> Please replace <code>images/dashboardX.png</code> and the dashboard links with your actual image locations and published Power BI dashboard links.</p>
 
 </body>
 </html>
