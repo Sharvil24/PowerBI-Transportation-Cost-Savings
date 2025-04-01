@@ -16,7 +16,7 @@
   <!-- Dashboard 1 -->
   <h2>📊 Dashboard 1: Freight Cost & Shipment Performance</h2>
   <img src="images/dashboard1.png" alt="Dashboard 1" width="800">
-  <p><a href="https://your-dashboard-link-1.com" target="_blank">🔗 View Dashboard 1</a></p>
+  <p><a href="[https://your-dashboard-link-1.com](https://northeastern-my.sharepoint.com/:u:/r/personal/wadekar_sh_northeastern_edu/Documents/Attachments/Alpha%20Huskies%201.pbix?csf=1&web=1&e=24WoqR)" target="_blank">🔗 View Dashboard 1</a></p>
 
   <h3>Analysis:</h3>
   <ul>
