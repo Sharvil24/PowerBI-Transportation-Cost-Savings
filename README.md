@@ -57,8 +57,8 @@
 
   <!-- Dashboard 3 -->
   <h2>📦 Dashboard 3: Pallet Utilization Over Time</h2>
-  <img src="images/dashboard3.png" alt="Dashboard 3" width="800">
-  <p><a href="https://your-dashboard-link-3.com" target="_blank">🔗 View Dashboard 3</a></p>
+  <img width="1402" alt="Pallet Utilization over time" src="https://github.com/user-attachments/assets/e5948d2b-fe69-4c4b-a599-06772d0d355d" />
+  <p><a href="https://northeastern-my.sharepoint.com/my?id=%2Fpersonal%2Fwadekar%5Fsh%5Fnortheastern%5Fedu%2FDocuments%2FAttachments%2FAlpha%20Huskies%20Dashboard1%5FPallet%20Utilization%2Epbix&parent=%2Fpersonal%2Fwadekar%5Fsh%5Fnortheastern%5Fedu%2FDocuments%2FAttachments&ct=1743533604403&or=OWA%2DNT%2DMail&cid=aa0aa9f2%2Dafb8%2De8df%2D8e8b%2D05d07e4d7183&ga=1&ls=true" target="_blank">🔗 View Dashboard 3</a></p>
 
   <h3>Analysis:</h3>
   <ul>
