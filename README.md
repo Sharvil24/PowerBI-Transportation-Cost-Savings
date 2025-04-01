@@ -78,8 +78,8 @@
 
   <!-- Dashboard 4 -->
   <h2>🌦️ Dashboard 4: Shipment Mode Insights by Weather</h2>
-  <img src="images/dashboard4.png" alt="Dashboard 4" width="800">
-  <p><a href="https://your-dashboard-link-4.com" target="_blank">🔗 View Dashboard 4</a></p>
+  <img width="1400" alt="Shipment mode insight by weather Conditions" src="https://github.com/user-attachments/assets/160ffa51-4cbb-4efa-9172-851a6324e1af" />
+  <p><a href="https://northeastern-my.sharepoint.com/my?id=%2Fpersonal%2Fwadekar%5Fsh%5Fnortheastern%5Fedu%2FDocuments%2FAttachments%2FAlpha%5FHuskies%20Dashboard2%5FMap%2Epbix&parent=%2Fpersonal%2Fwadekar%5Fsh%5Fnortheastern%5Fedu%2FDocuments%2FAttachments&ct=1743533652655&or=OWA%2DNT%2DMail&cid=a0dc2b8e%2D0dd7%2Dc30b%2De05c%2D656d16085ea5&ga=1&ls=true" target="_blank">🔗 View Dashboard 4</a></p>
 
   <h3>Analysis:</h3>
   <ul>
